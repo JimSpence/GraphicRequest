@@ -1,5 +1,5 @@
-import firebase from 'firebase/app';
-import 'firebase/database';
+import firebase from '@firebase/app';
+import '@firebase/database';
 
 const config = {
     databaseURL: 'https://graphic-requests.firebaseio.com'
